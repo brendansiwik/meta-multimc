@@ -3,30 +3,37 @@
     "packages": [
         {
             "name": "LiteLoader",
+            "sha256": "ef1a53a1b336e7e842bf4638a2b4dcf7234be5f120c534aafdc5e8e5f7d6fe78",
             "uid": "com.mumfrey.liteloader"
         },
         {
             "name": "Fabric Loader",
+            "sha256": "99c093e191b7ffd7f31ee8dd07f953b0146fdf51f57486261d4d4c1f892cc22d",
             "uid": "net.fabricmc.fabric-loader"
         },
         {
             "name": "Intermediary Mappings",
+            "sha256": "1027a4f859cd4a4c1425a0f058e3c7a8768cc8689c69df9ca77f15d6ae67385a",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
+            "sha256": "22d19e61d2c767dd1c8f72e402993589db82fa9576b8955d11cf778aa8916013",
             "uid": "net.minecraft"
         },
         {
             "name": "Forge",
+            "sha256": "3c1bc0081acb2a65fda324ae8f9696601de2162dbf1e8ad61d88c4315090b94d",
             "uid": "net.minecraftforge"
         },
         {
             "name": "LWJGL 2",
+            "sha256": "ad39a338d531c3c78ad0b24eba444eb4260cc486b36d583e3a2776f87e739b8a",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
+            "sha256": "4ee87a8e5327efb2c6ede2bb31aedeccaeac4791bdfdcbbc4302a092d4746277",
             "uid": "org.lwjgl3"
         }
     ]
