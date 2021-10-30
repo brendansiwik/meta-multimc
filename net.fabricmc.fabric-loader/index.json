@@ -4,7 +4,62 @@
     "uid": "net.fabricmc.fabric-loader",
     "versions": [
         {
+            "releaseTime": "2021-10-24T18:08:36+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "c78c5328010fe5817bf1be62e37fb060676b7089d793e40b9a339acdaf3a244d",
+            "type": "release",
+            "version": "0.12.3"
+        },
+        {
+            "releaseTime": "2021-10-16T12:48:18+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "24e513689ae60d5e0492fa587da968515a6b899ad2cce39b433fdaf4ca7c08b6",
+            "type": "release",
+            "version": "0.12.2"
+        },
+        {
+            "releaseTime": "2021-10-07T11:50:30+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "b79b23e11f239ddd6b5d8f7c93b920df3cd3411fcf2fdf2b3f9a0d3e6d37e2e6",
+            "type": "release",
+            "version": "0.12.1"
+        },
+        {
+            "releaseTime": "2021-10-03T18:46:40+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "9b9453bfa2803ac6f67d29fee076b550d621b9a910e32d8f9d59339140c0eb0c",
+            "type": "release",
+            "version": "0.12.0"
+        },
+        {
             "recommended": true,
+            "releaseTime": "2021-09-16T21:30:20+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "3a37c14cdc1c4a8ffa1ce1c745b0536c003b8a71fe662f04fb8a427c20907037",
+            "type": "release",
+            "version": "0.11.7"
+        },
+        {
             "releaseTime": "2021-06-14T03:32:50+00:00",
             "requires": [
                 {
