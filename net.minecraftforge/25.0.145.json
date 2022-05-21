@@ -4,12 +4,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "90104e9aaa8fbedf6c3d1f6d0b90cabce080b5a9",
-                    "size": 29892,
-                    "url": "https://files.multimc.org/maven/io/github/zekerzhayard/ForgeWrapper/1.5.1/ForgeWrapper-1.5.1.jar"
+                    "sha1": "71eee023a515b79bb7b235c5c08b045a0db67ce1",
+                    "size": 34445,
+                    "url": "https://files.multimc.org/maven/io/github/zekerzhayard/ForgeWrapper/mmc3/ForgeWrapper-mmc3.jar"
                 }
             },
-            "name": "io.github.zekerzhayard:ForgeWrapper:1.5.1"
+            "name": "io.github.zekerzhayard:ForgeWrapper:mmc3"
         },
         {
             "downloads": {
@@ -201,28 +201,6 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/apache/logging/log4j/log4j-api/2.11.1/log4j-api-2.11.1.jar",
-                    "sha1": "268f0fe4df3eefe052b57c87ec48517d64fb2a10",
-                    "size": 264060,
-                    "url": "https://maven.minecraftforge.net/org/apache/logging/log4j/log4j-api/2.11.1/log4j-api-2.11.1.jar"
-                }
-            },
-            "name": "org.apache.logging.log4j:log4j-api:2.11.1"
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "path": "org/apache/logging/log4j/log4j-core/2.11.1/log4j-core-2.11.1.jar",
-                    "sha1": "592a48674c926b01a9a747c7831bcd82a9e6d6e4",
-                    "size": 1607947,
-                    "url": "https://maven.minecraftforge.net/org/apache/logging/log4j/log4j-core/2.11.1/log4j-core-2.11.1.jar"
-                }
-            },
-            "name": "org.apache.logging.log4j:log4j-core:2.11.1"
-        },
-        {
-            "downloads": {
-                "artifact": {
                     "path": "net/minecrell/terminalconsoleappender/1.1.1/terminalconsoleappender-1.1.1.jar",
                     "sha1": "d7e48a3c5f778bb8b41d178a52b4411dff418a0c",
                     "size": 15240,
@@ -248,8 +226,8 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "ef52424f1cd1c9e53d17cb86fb1339d4dbf07918",
-                    "size": 7779233,
+                    "sha1": "1df77a44f8ea6737456a0183565dc752fc7d6435",
+                    "size": 7394791,
                     "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.13.2-25.0.145/forge-1.13.2-25.0.145-installer.jar"
                 }
             },
